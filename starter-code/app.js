@@ -14,6 +14,8 @@ function sum(a, b) { //eslint-disable-line
   return [add, string];
 }
 
+
+function 10(2, 5)
 // Here is the test for sum(); uncomment it to run it
 // testSum(4, 7);
 
